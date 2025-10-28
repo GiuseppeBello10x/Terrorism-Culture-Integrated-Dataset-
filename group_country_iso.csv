@@ -1,0 +1,220 @@
+,gname,country_txt,num_attacks,iso_alpha
+0,Abu Sayyaf Group (ASG),Malaysia,7,MYS
+1,Abu Sayyaf Group (ASG),Philippines,45,PHL
+2,Adan-Abyan Province of the Islamic State,Yemen,5,YEM
+3,Ahl al-Marouf,Iraq,6,IRQ
+4,Ahle Sunnat Wal Jamaat (ASWJ-Pakistan),Pakistan,1,PAK
+5,Ahrar al-Sharqiya,Syria,2,SYR
+6,Al Bayda Province of the Islamic State,Yemen,1,YEM
+7,Al-Aqsa Martyrs Brigade,Israel,3,ISR
+8,Al-Aqsa Martyrs Brigade,West Bank and Gaza Strip,1,
+9,Al-Badr,India,6,IND
+10,Al-Khobar,Philippines,2,PHL
+11,Al-Qaida in the Arabian Peninsula (AQAP),Saudi Arabia,1,SAU
+12,Al-Qaida in the Arabian Peninsula (AQAP),United States,1,USA
+13,Al-Qaida in the Arabian Peninsula (AQAP),Yemen,54,YEM
+14,Al-Qaida in the Indian Subcontinent,Bangladesh,1,BGD
+15,Al-Qaida in the Islamic Maghreb (AQIM),Algeria,1,DZA
+16,Al-Qaida in the Islamic Maghreb (AQIM),Mali,2,MLI
+17,Al-Shabaab,Kenya,159,KEN
+18,Al-Shabaab,Somalia,592,SOM
+19,Al-Umar Mujahideen,India,3,IND
+20,Allied Democratic Forces (ADF),Democratic Republic of the Congo,257,
+21,Allied Democratic Forces (ADF),Uganda,2,UGA
+22,Ansar Abi Bakr al-Siddiq Squadron,Syria,2,SYR
+23,Ansar Al-Khilafa (Philippines),Philippines,1,PHL
+24,Ansar Ghazwat-ul-Hind,India,3,IND
+25,Ansar al-Furqan,Iran,1,IRN
+26,Ansar al-Islam (Burkina Faso),Burkina Faso,19,BFA
+27,Ansar al-Islam (Burkina Faso),Mali,2,MLI
+28,Ansar al-Sunna (Mozambique),Mozambique,65,MOZ
+29,Ansar al-Tawhid,Syria,1,SYR
+30,Ansaru (Jama'atu Ansarul Muslimina Fi Biladis Sudan),Nigeria,6,NGA
+31,Ansarullah Bangla Team,Bangladesh,1,BGD
+32,Anti-Christian extremists,United States,1,USA
+33,Anti-Muslim extremists,Belgium,1,BEL
+34,Anti-Muslim extremists,Canada,3,CAN
+35,Anti-Muslim extremists,Cyprus,1,CYP
+36,Anti-Muslim extremists,Germany,1,DEU
+37,Anti-Muslim extremists,New Zealand,2,NZL
+38,Anti-Muslim extremists,South Africa,2,ZAF
+39,Anti-Muslim extremists,Spain,1,ESP
+40,Anti-Muslim extremists,Sweden,1,SWE
+41,Anti-Muslim extremists,United Kingdom,2,GBR
+42,Anti-Muslim extremists,United States,10,USA
+43,Anti-Semitic extremists,Austria,1,AUT
+44,Anti-Semitic extremists,France,1,FRA
+45,Anti-Semitic extremists,Germany,6,DEU
+46,Anti-Semitic extremists,Italy,1,ITA
+47,Anti-Semitic extremists,Russia,1,RUS
+48,Anti-Semitic extremists,Sweden,2,SWE
+49,Anti-Semitic extremists,Ukraine,1,UKR
+50,Anti-Semitic extremists,United Kingdom,3,GBR
+51,Anti-Semitic extremists,United States,15,USA
+52,Arakan Rohingya Salvation Army (ARSA),Bangladesh,5,BGD
+53,Arakan Rohingya Salvation Army (ARSA),Myanmar,5,MMR
+54,Asa'ib Ahl al-Haqq,Iraq,5,IRQ
+55,Ashab al-Kahf,Iraq,6,IRQ
+56,Bangsamoro Islamic Freedom Movement (BIFM),Philippines,94,PHL
+57,Barqa Province of the Islamic State,Libya,12,LBY
+58,Boko Haram,Cameroon,96,CMR
+59,Boko Haram,Chad,17,TCD
+60,Boko Haram,Mali,1,MLI
+61,Boko Haram,Niger,46,NER
+62,Boko Haram,Nigeria,569,NGA
+63,Catholic extremists,United Kingdom,1,GBR
+64,Caucasus Province of the Islamic State,Russia,11,RUS
+65,Central Africa Province of the Islamic State,Democratic Republic of the Congo,27,
+66,Central Africa Province of the Islamic State,Mozambique,52,MOZ
+67,Central Africa Province of the Islamic State,Tanzania,3,TZA
+68,Derna Protection Force (DPF),Libya,4,LBY
+69,East Asia Division of the Islamic State,Indonesia,1,IDN
+70,East Asia Division of the Islamic State,Philippines,7,PHL
+71,Fezzan Province of the Islamic State,Libya,16,LBY
+72,Furqa 23,Syria,1,SYR
+73,Hafiz Gul Bahadur Group,Pakistan,1,PAK
+74,Hamas (Islamic Resistance Movement),Israel,96,ISR
+75,Hamas (Islamic Resistance Movement),West Bank and Gaza Strip,13,
+76,Haqqani Network,Afghanistan,3,AFG
+77,Hasam Movement,Egypt,4,EGY
+78,Hay'at Tahrir al-Sham,Syria,32,SYR
+79,Hezbollah,Lebanon,4,LBN
+80,Hind Province of the Islamic State,India,7,IND
+81,Hindu extremists,India,3,IND
+82,Hizb-ul-Ahrar (HuA),Pakistan,26,PAK
+83,Hizbul Mujahideen (HM),India,74,IND
+84,Incite the Believers,Syria,1,SYR
+85,Iran-backed militia,Iraq,29,IRQ
+86,Iran-backed militia,Syria,1,SYR
+87,Islamic State in Bangladesh,Bangladesh,8,BGD
+88,Islamic State in Egypt,Egypt,1,EGY
+89,Islamic State in the Greater Sahara (ISGS),Burkina Faso,17,BFA
+90,Islamic State in the Greater Sahara (ISGS),Mali,27,MLI
+91,Islamic State in the Greater Sahara (ISGS),Niger,20,NER
+92,Islamic State of Iraq and the Levant (ISIL),Iraq,1084,IRQ
+93,Islamic State of Iraq and the Levant (ISIL),Kazakhstan,1,KAZ
+94,Islamic State of Iraq and the Levant (ISIL),Lebanon,3,LBN
+95,Islamic State of Iraq and the Levant (ISIL),Philippines,6,PHL
+96,Islamic State of Iraq and the Levant (ISIL),Sri Lanka,8,LKA
+97,Islamic State of Iraq and the Levant (ISIL),Syria,166,SYR
+98,Islamic State of Iraq and the Levant (ISIL),Tajikistan,3,TJK
+99,Islamic State of Iraq and the Levant (ISIL),Tunisia,4,TUN
+100,Israeli extremists,West Bank and Gaza Strip,1,
+101,Jabha East Africa,Somalia,35,SOM
+102,Jaish al-Adl,Iran,4,IRN
+103,Jaish-e-Mohammad (JeM),India,75,IND
+104,Jama'atul Mujahideen Bangladesh (JMB),Bangladesh,5,BGD
+105,Jama'atul Mujahideen Bangladesh (JMB),India,3,IND
+106,Jamaah Ansharut Daulah,Indonesia,11,IDN
+107,Jamaat Nusrat al-Islam wal Muslimin (JNIM),Burkina Faso,26,BFA
+108,Jamaat Nusrat al-Islam wal Muslimin (JNIM),Ivory Coast,4,CIV
+109,Jamaat Nusrat al-Islam wal Muslimin (JNIM),Mali,58,MLI
+110,Jamaat Nusrat al-Islam wal Muslimin (JNIM),Niger,2,NER
+111,Jaysh al-Islam (Syria),Syria,2,SYR
+112,Jewish Extremists,Israel,1,ISR
+113,Jihadi-inspired extremists,Australia,2,AUS
+114,Jihadi-inspired extremists,Austria,1,AUT
+115,Jihadi-inspired extremists,Azerbaijan,1,AZE
+116,Jihadi-inspired extremists,Belgium,1,BEL
+117,Jihadi-inspired extremists,Canada,1,CAN
+118,Jihadi-inspired extremists,France,14,FRA
+119,Jihadi-inspired extremists,Germany,6,DEU
+120,Jihadi-inspired extremists,Indonesia,3,IDN
+121,Jihadi-inspired extremists,Jordan,1,JOR
+122,Jihadi-inspired extremists,Morocco,1,MAR
+123,Jihadi-inspired extremists,Netherlands,1,NLD
+124,Jihadi-inspired extremists,Russia,3,RUS
+125,Jihadi-inspired extremists,South Africa,4,ZAF
+126,Jihadi-inspired extremists,Switzerland,1,CHE
+127,Jihadi-inspired extremists,Tunisia,1,TUN
+128,Jihadi-inspired extremists,United Kingdom,4,GBR
+129,Jihadi-inspired extremists,United States,10,USA
+130,Jund al-Khilafah (Tunisia),Tunisia,7,TUN
+131,Kata'ib Hezbollah,Iraq,21,IRQ
+132,Khalistan Liberation Force,India,2,IND
+133,Khorasan Chapter of the Islamic State,Afghanistan,251,AFG
+134,Khorasan Chapter of the Islamic State,India,8,IND
+135,Khorasan Chapter of the Islamic State,Pakistan,28,PAK
+136,Ku Klux Klan,United States,1,USA
+137,Lashkar-e-Islam (Pakistan),Afghanistan,1,AFG
+138,Lashkar-e-Jhangvi,Pakistan,2,PAK
+139,Lashkar-e-Mustafa (LeM),India,1,IND
+140,Lashkar-e-Taiba (LeT),India,54,IND
+141,Lions of Khilafah in the Maldives,Maldives,3,MDV
+142,Lord's Resistance Army (LRA),Central African Republic,4,CAF
+143,Lord's Resistance Army (LRA),Democratic Republic of the Congo,14,
+144,Maute Group,Philippines,3,PHL
+145,Moro Islamic Liberation Front (MILF),Philippines,3,PHL
+146,Mouhadine,Burkina Faso,2,BFA
+147,Mujahidin Indonesia Timur (MIT),Indonesia,8,IDN
+148,Mullah Nazir Group,Pakistan,1,PAK
+149,Muslim Brotherhood,Egypt,2,EGY
+150,Muslim Brotherhood,Libya,1,LBY
+151,Muslim extremists,Austria,2,AUT
+152,Muslim extremists,Bangladesh,1,BGD
+153,Muslim extremists,Benin,1,BEN
+154,Muslim extremists,Burkina Faso,56,BFA
+155,Muslim extremists,Central African Republic,1,CAF
+156,Muslim extremists,Egypt,2,EGY
+157,Muslim extremists,France,1,FRA
+158,Muslim extremists,Germany,1,DEU
+159,Muslim extremists,Indonesia,1,IDN
+160,Muslim extremists,Iran,1,IRN
+161,Muslim extremists,Jordan,1,JOR
+162,Muslim extremists,Kenya,1,KEN
+163,Muslim extremists,Kyrgyzstan,1,KGZ
+164,Muslim extremists,Libya,1,LBY
+165,Muslim extremists,Maldives,1,MDV
+166,Muslim extremists,Mali,62,MLI
+167,Muslim extremists,Mozambique,93,MOZ
+168,Muslim extremists,Netherlands,1,NLD
+169,Muslim extremists,Niger,9,NER
+170,Muslim extremists,Nigeria,1,NGA
+171,Muslim extremists,Norway,2,NOR
+172,Muslim extremists,Pakistan,5,PAK
+173,Muslim extremists,Philippines,1,PHL
+174,Muslim extremists,Russia,1,RUS
+175,Muslim extremists,Sudan,3,SDN
+176,Muslim extremists,Sweden,1,SWE
+177,Muslim extremists,Syria,9,SYR
+178,Muslim extremists,Tunisia,3,TUN
+179,Muslim extremists,United Kingdom,1,GBR
+180,Muslim extremists,Yemen,5,YEM
+181,Najd Province of the Islamic State,Saudi Arabia,3,SAU
+182,National Thowheeth Jama'ath,Sri Lanka,1,LKA
+183,Negara Islam Indonesia (NII),Indonesia,1,IDN
+184,Okba Ibn Nafaa Brigade,Tunisia,3,TUN
+185,Omar Abdel Rahman Brigade,Egypt,1,EGY
+186,Pakistan Province of the Islamic State,Pakistan,6,PAK
+187,Palestinian Islamic Jihad (PIJ),Israel,35,ISR
+188,Palestinian Islamic Jihad (PIJ),West Bank and Gaza Strip,5,
+189,Popular Front of India (PFI),India,1,IND
+190,Pro-Palestinian extremists,Brazil,1,BRA
+191,Qimant extremists,Ethiopia,1,ETH
+192,Rab'Allah,Iraq,2,IRQ
+193,Rashtriya Swayamsevak Sangh,India,4,IND
+194,Sadrist Movement,Iraq,5,IRQ
+195,Sanatan Sanstha,India,2,IND
+196,Sarallah India Hezbollah,India,1,IND
+197,Saraya al-Salam,Iraq,1,IRQ
+198,Shia Muslim extremists,Iraq,2,IRQ
+199,Shura Council of Benghazi Revolutionaries,Libya,3,LBY
+200,Shura Council of Mujahideen in Derna,Libya,3,LBY
+201,Sinai Province of the Islamic State,Egypt,90,EGY
+202,Sudanese Islamic Youth Movement,Sudan,1,SDN
+203,Sumud Brigade,Libya,2,LBY
+204,Taliban,Afghanistan,3814,AFG
+205,Taliban,Tajikistan,1,TJK
+206,Tehreek-e-Labbaik Pakistan (TLP),Pakistan,2,PAK
+207,Tehrik al-Mojahedin,India,3,IND
+208,Tehrik-i-Taliban Pakistan (TTP),Afghanistan,2,AFG
+209,Tehrik-i-Taliban Pakistan (TTP),Pakistan,106,PAK
+210,The Owners of the White Flags,Iraq,1,IRQ
+211,The Resistance Front (TRF),India,22,IND
+212,Tripoli Province of the Islamic State,Libya,7,LBY
+213,Vishwa Hindu Parishad (VHP),India,1,IND
+214,Wa'ed al-Tahrir,Israel,1,ISR
+215,White supremacists/nationalists,Norway,2,NOR
+216,White supremacists/nationalists,United States,26,USA
+217,Zaire Self-Defense Group,Democratic Republic of the Congo,2,
+218,uMkhonto we Sizwe Military Veterans Association (MKMVA),South Africa,1,ZAF

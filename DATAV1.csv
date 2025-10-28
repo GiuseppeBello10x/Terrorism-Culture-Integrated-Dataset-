@@ -1,0 +1,154 @@
+,gname,country_txt,num_attacks,iso_alpha,ctr,country,pdi,idv,mas,uai,ltowvs,ivr
+0,Abu Sayyaf Group (ASG),Malaysia,7,MYS,MAL,Malaysia,104.0,26.0,50.0,36.0,41.0,57.0
+1,Abu Sayyaf Group (ASG),Philippines,45,PHL,PHI,Philippines,94.0,32.0,64.0,44.0,27.0,42.0
+2,Al-Khobar,Philippines,2,PHL,PHI,Philippines,94.0,32.0,64.0,44.0,27.0,42.0
+3,Ansar Al-Khilafa (Philippines),Philippines,1,PHL,PHI,Philippines,94.0,32.0,64.0,44.0,27.0,42.0
+4,Bangsamoro Islamic Freedom Movement (BIFM),Philippines,94,PHL,PHI,Philippines,94.0,32.0,64.0,44.0,27.0,42.0
+5,East Asia Division of the Islamic State,Philippines,7,PHL,PHI,Philippines,94.0,32.0,64.0,44.0,27.0,42.0
+6,Islamic State of Iraq and the Levant (ISIL),Philippines,6,PHL,PHI,Philippines,94.0,32.0,64.0,44.0,27.0,42.0
+7,Maute Group,Philippines,3,PHL,PHI,Philippines,94.0,32.0,64.0,44.0,27.0,42.0
+8,Moro Islamic Liberation Front (MILF),Philippines,3,PHL,PHI,Philippines,94.0,32.0,64.0,44.0,27.0,42.0
+9,Muslim extremists,Philippines,1,PHL,PHI,Philippines,94.0,32.0,64.0,44.0,27.0,42.0
+10,Ahl al-Marouf,Iraq,6,IRQ,IRQ,Iraq,,,,,25.0,17.0
+11,Asa'ib Ahl al-Haqq,Iraq,5,IRQ,IRQ,Iraq,,,,,25.0,17.0
+12,Ashab al-Kahf,Iraq,6,IRQ,IRQ,Iraq,,,,,25.0,17.0
+13,Iran-backed militia,Iraq,29,IRQ,IRQ,Iraq,,,,,25.0,17.0
+14,Islamic State of Iraq and the Levant (ISIL),Iraq,1084,IRQ,IRQ,Iraq,,,,,25.0,17.0
+15,Kata'ib Hezbollah,Iraq,21,IRQ,IRQ,Iraq,,,,,25.0,17.0
+16,Rab'Allah,Iraq,2,IRQ,IRQ,Iraq,,,,,25.0,17.0
+17,Sadrist Movement,Iraq,5,IRQ,IRQ,Iraq,,,,,25.0,17.0
+18,Saraya al-Salam,Iraq,1,IRQ,IRQ,Iraq,,,,,25.0,17.0
+19,Shia Muslim extremists,Iraq,2,IRQ,IRQ,Iraq,,,,,25.0,17.0
+20,The Owners of the White Flags,Iraq,1,IRQ,IRQ,Iraq,,,,,25.0,17.0
+21,Ahle Sunnat Wal Jamaat (ASWJ-Pakistan),Pakistan,1,PAK,PAK,Pakistan,55.0,14.0,50.0,70.0,50.0,0.0
+22,Hafiz Gul Bahadur Group,Pakistan,1,PAK,PAK,Pakistan,55.0,14.0,50.0,70.0,50.0,0.0
+23,Hizb-ul-Ahrar (HuA),Pakistan,26,PAK,PAK,Pakistan,55.0,14.0,50.0,70.0,50.0,0.0
+24,Khorasan Chapter of the Islamic State,Pakistan,28,PAK,PAK,Pakistan,55.0,14.0,50.0,70.0,50.0,0.0
+25,Lashkar-e-Jhangvi,Pakistan,2,PAK,PAK,Pakistan,55.0,14.0,50.0,70.0,50.0,0.0
+26,Mullah Nazir Group,Pakistan,1,PAK,PAK,Pakistan,55.0,14.0,50.0,70.0,50.0,0.0
+27,Muslim extremists,Pakistan,5,PAK,PAK,Pakistan,55.0,14.0,50.0,70.0,50.0,0.0
+28,Pakistan Province of the Islamic State,Pakistan,6,PAK,PAK,Pakistan,55.0,14.0,50.0,70.0,50.0,0.0
+29,Tehreek-e-Labbaik Pakistan (TLP),Pakistan,2,PAK,PAK,Pakistan,55.0,14.0,50.0,70.0,50.0,0.0
+30,Tehrik-i-Taliban Pakistan (TTP),Pakistan,106,PAK,PAK,Pakistan,55.0,14.0,50.0,70.0,50.0,0.0
+31,Al-Aqsa Martyrs Brigade,Israel,3,ISR,ISR,Israel,13.0,54.0,47.0,81.0,38.0,
+32,Hamas (Islamic Resistance Movement),Israel,96,ISR,ISR,Israel,13.0,54.0,47.0,81.0,38.0,
+33,Jewish Extremists,Israel,1,ISR,ISR,Israel,13.0,54.0,47.0,81.0,38.0,
+34,Palestinian Islamic Jihad (PIJ),Israel,35,ISR,ISR,Israel,13.0,54.0,47.0,81.0,38.0,
+35,Wa'ed al-Tahrir,Israel,1,ISR,ISR,Israel,13.0,54.0,47.0,81.0,38.0,
+172,Al-Badr,India,6,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+173,Al-Umar Mujahideen,India,3,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+174,Ansar Ghazwat-ul-Hind,India,3,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+175,Hind Province of the Islamic State,India,7,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+176,Hindu extremists,India,3,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+177,Hizbul Mujahideen (HM),India,74,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+178,Jaish-e-Mohammad (JeM),India,75,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+179,Jama'atul Mujahideen Bangladesh (JMB),India,3,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+180,Khalistan Liberation Force,India,2,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+181,Khorasan Chapter of the Islamic State,India,8,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+182,Lashkar-e-Mustafa (LeM),India,1,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+183,Lashkar-e-Taiba (LeT),India,54,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+184,Popular Front of India (PFI),India,1,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+185,Rashtriya Swayamsevak Sangh,India,4,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+186,Sanatan Sanstha,India,2,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+187,Sarallah India Hezbollah,India,1,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+188,Tehrik al-Mojahedin,India,3,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+189,The Resistance Front (TRF),India,22,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+190,Vishwa Hindu Parishad (VHP),India,1,IND,IND,India,77.0,48.0,56.0,40.0,51.0,26.0
+191,Al-Qaida in the Arabian Peninsula (AQAP),Saudi Arabia,1,SAU,SAU,Saudi Arabia,,,,,36.0,52.0
+192,Najd Province of the Islamic State,Saudi Arabia,3,SAU,SAU,Saudi Arabia,,,,,36.0,52.0
+193,Al-Qaida in the Arabian Peninsula (AQAP),United States,1,USA,USA,U.S.A.,40.0,91.0,62.0,46.0,26.0,68.0
+194,Anti-Christian extremists,United States,1,USA,USA,U.S.A.,40.0,91.0,62.0,46.0,26.0,68.0
+195,Anti-Muslim extremists,United States,10,USA,USA,U.S.A.,40.0,91.0,62.0,46.0,26.0,68.0
+196,Anti-Semitic extremists,United States,15,USA,USA,U.S.A.,40.0,91.0,62.0,46.0,26.0,68.0
+197,Jihadi-inspired extremists,United States,10,USA,USA,U.S.A.,40.0,91.0,62.0,46.0,26.0,68.0
+198,Ku Klux Klan,United States,1,USA,USA,U.S.A.,40.0,91.0,62.0,46.0,26.0,68.0
+199,White supremacists/nationalists,United States,26,USA,USA,U.S.A.,40.0,91.0,62.0,46.0,26.0,68.0
+200,Al-Qaida in the Indian Subcontinent,Bangladesh,1,BGD,BAN,Bangladesh,80.0,20.0,55.0,60.0,47.0,20.0
+201,Ansarullah Bangla Team,Bangladesh,1,BGD,BAN,Bangladesh,80.0,20.0,55.0,60.0,47.0,20.0
+202,Arakan Rohingya Salvation Army (ARSA),Bangladesh,5,BGD,BAN,Bangladesh,80.0,20.0,55.0,60.0,47.0,20.0
+203,Islamic State in Bangladesh,Bangladesh,8,BGD,BAN,Bangladesh,80.0,20.0,55.0,60.0,47.0,20.0
+204,Jama'atul Mujahideen Bangladesh (JMB),Bangladesh,5,BGD,BAN,Bangladesh,80.0,20.0,55.0,60.0,47.0,20.0
+205,Muslim extremists,Bangladesh,1,BGD,BAN,Bangladesh,80.0,20.0,55.0,60.0,47.0,20.0
+206,Al-Qaida in the Islamic Maghreb (AQIM),Algeria,1,DZA,ALG,Algeria,,,,,26.0,32.0
+207,Al-Qaida in the Islamic Maghreb (AQIM),Mali,2,MLI,MLI,Mali,,,,,20.0,43.0
+208,Ansar al-Islam (Burkina Faso),Mali,2,MLI,MLI,Mali,,,,,20.0,43.0
+209,Boko Haram,Mali,1,MLI,MLI,Mali,,,,,20.0,43.0
+210,Islamic State in the Greater Sahara (ISGS),Mali,27,MLI,MLI,Mali,,,,,20.0,43.0
+211,Jamaat Nusrat al-Islam wal Muslimin (JNIM),Mali,58,MLI,MLI,Mali,,,,,20.0,43.0
+212,Muslim extremists,Mali,62,MLI,MLI,Mali,,,,,20.0,43.0
+213,Allied Democratic Forces (ADF),Uganda,2,UGA,UGA,Uganda,,,,,24.0,52.0
+214,Ansar al-Furqan,Iran,1,IRN,IRA,Iran,58.0,41.0,43.0,59.0,14.0,40.0
+215,Jaish al-Adl,Iran,4,IRN,IRA,Iran,58.0,41.0,43.0,59.0,14.0,40.0
+216,Muslim extremists,Iran,1,IRN,IRA,Iran,58.0,41.0,43.0,59.0,14.0,40.0
+217,Ansar al-Islam (Burkina Faso),Burkina Faso,19,BFA,BUF,Burkina Faso,,,,,27.0,18.0
+218,Islamic State in the Greater Sahara (ISGS),Burkina Faso,17,BFA,BUF,Burkina Faso,,,,,27.0,18.0
+219,Jamaat Nusrat al-Islam wal Muslimin (JNIM),Burkina Faso,26,BFA,BUF,Burkina Faso,,,,,27.0,18.0
+220,Mouhadine,Burkina Faso,2,BFA,BUF,Burkina Faso,,,,,27.0,18.0
+221,Muslim extremists,Burkina Faso,56,BFA,BUF,Burkina Faso,,,,,27.0,18.0
+222,Ansaru (Jama'atu Ansarul Muslimina Fi Biladis Sudan),Nigeria,6,NGA,NIG,Nigeria,,,,,13.0,84.0
+223,Boko Haram,Nigeria,569,NGA,NIG,Nigeria,,,,,13.0,84.0
+224,Muslim extremists,Nigeria,1,NGA,NIG,Nigeria,,,,,13.0,84.0
+225,Anti-Muslim extremists,Belgium,1,BEL,BEL,Belgium,65.0,75.0,54.0,94.0,82.0,57.0
+226,Jihadi-inspired extremists,Belgium,1,BEL,BEL,Belgium,65.0,75.0,54.0,94.0,82.0,57.0
+227,Anti-Muslim extremists,Canada,3,CAN,CAN,Canada,39.0,80.0,52.0,48.0,36.0,68.0
+228,Jihadi-inspired extremists,Canada,1,CAN,CAN,Canada,39.0,80.0,52.0,48.0,36.0,68.0
+229,Anti-Muslim extremists,Cyprus,1,CYP,CYP,Cyprus,,,,,,70.0
+230,Anti-Muslim extremists,Germany,1,DEU,GER,Germany,35.0,67.0,66.0,65.0,83.0,40.0
+231,Anti-Semitic extremists,Germany,6,DEU,GER,Germany,35.0,67.0,66.0,65.0,83.0,40.0
+232,Jihadi-inspired extremists,Germany,6,DEU,GER,Germany,35.0,67.0,66.0,65.0,83.0,40.0
+233,Muslim extremists,Germany,1,DEU,GER,Germany,35.0,67.0,66.0,65.0,83.0,40.0
+234,Anti-Muslim extremists,New Zealand,2,NZL,NZL,New Zealand,22.0,79.0,58.0,49.0,33.0,75.0
+235,Anti-Muslim extremists,South Africa,2,ZAF,SAF,South Africa,,,,,34.0,63.0
+236,Jihadi-inspired extremists,South Africa,4,ZAF,SAF,South Africa,,,,,34.0,63.0
+237,uMkhonto we Sizwe Military Veterans Association (MKMVA),South Africa,1,ZAF,SAF,South Africa,,,,,34.0,63.0
+238,Anti-Muslim extremists,Spain,1,ESP,SPA,Spain,57.0,51.0,42.0,86.0,48.0,44.0
+239,Anti-Muslim extremists,Sweden,1,SWE,SWE,Sweden,31.0,71.0,5.0,29.0,53.0,78.0
+240,Anti-Semitic extremists,Sweden,2,SWE,SWE,Sweden,31.0,71.0,5.0,29.0,53.0,78.0
+241,Muslim extremists,Sweden,1,SWE,SWE,Sweden,31.0,71.0,5.0,29.0,53.0,78.0
+242,Anti-Semitic extremists,Austria,1,AUT,AUT,Austria,11.0,55.0,79.0,70.0,60.0,63.0
+243,Jihadi-inspired extremists,Austria,1,AUT,AUT,Austria,11.0,55.0,79.0,70.0,60.0,63.0
+244,Muslim extremists,Austria,2,AUT,AUT,Austria,11.0,55.0,79.0,70.0,60.0,63.0
+245,Anti-Semitic extremists,France,1,FRA,FRA,France,68.0,71.0,43.0,86.0,63.0,48.0
+246,Jihadi-inspired extremists,France,14,FRA,FRA,France,68.0,71.0,43.0,86.0,63.0,48.0
+247,Muslim extremists,France,1,FRA,FRA,France,68.0,71.0,43.0,86.0,63.0,48.0
+248,Anti-Semitic extremists,Italy,1,ITA,ITA,Italy,50.0,76.0,70.0,75.0,61.0,30.0
+249,Anti-Semitic extremists,Russia,1,RUS,RUS,Russia,93.0,39.0,36.0,95.0,81.0,20.0
+250,Caucasus Province of the Islamic State,Russia,11,RUS,RUS,Russia,93.0,39.0,36.0,95.0,81.0,20.0
+251,Jihadi-inspired extremists,Russia,3,RUS,RUS,Russia,93.0,39.0,36.0,95.0,81.0,20.0
+252,Muslim extremists,Russia,1,RUS,RUS,Russia,93.0,39.0,36.0,95.0,81.0,20.0
+253,Anti-Semitic extremists,Ukraine,1,UKR,UKR,Ukraine,,,,,86.0,14.0
+254,Barqa Province of the Islamic State,Libya,12,LBY,ARA,Arab countries,80.0,38.0,53.0,68.0,23.0,34.0
+255,Derna Protection Force (DPF),Libya,4,LBY,ARA,Arab countries,80.0,38.0,53.0,68.0,23.0,34.0
+256,Fezzan Province of the Islamic State,Libya,16,LBY,ARA,Arab countries,80.0,38.0,53.0,68.0,23.0,34.0
+257,Muslim Brotherhood,Libya,1,LBY,ARA,Arab countries,80.0,38.0,53.0,68.0,23.0,34.0
+258,Muslim extremists,Libya,1,LBY,ARA,Arab countries,80.0,38.0,53.0,68.0,23.0,34.0
+259,Shura Council of Benghazi Revolutionaries,Libya,3,LBY,ARA,Arab countries,80.0,38.0,53.0,68.0,23.0,34.0
+260,Shura Council of Mujahideen in Derna,Libya,3,LBY,ARA,Arab countries,80.0,38.0,53.0,68.0,23.0,34.0
+261,Sumud Brigade,Libya,2,LBY,ARA,Arab countries,80.0,38.0,53.0,68.0,23.0,34.0
+262,Tripoli Province of the Islamic State,Libya,7,LBY,ARA,Arab countries,80.0,38.0,53.0,68.0,23.0,34.0
+263,Central Africa Province of the Islamic State,Tanzania,3,TZA,TAN,Tanzania,,,,,34.0,38.0
+264,East Asia Division of the Islamic State,Indonesia,1,IDN,IDO,Indonesia,78.0,14.0,46.0,48.0,62.0,38.0
+265,Jamaah Ansharut Daulah,Indonesia,11,IDN,IDO,Indonesia,78.0,14.0,46.0,48.0,62.0,38.0
+266,Jihadi-inspired extremists,Indonesia,3,IDN,IDO,Indonesia,78.0,14.0,46.0,48.0,62.0,38.0
+267,Mujahidin Indonesia Timur (MIT),Indonesia,8,IDN,IDO,Indonesia,78.0,14.0,46.0,48.0,62.0,38.0
+268,Muslim extremists,Indonesia,1,IDN,IDO,Indonesia,78.0,14.0,46.0,48.0,62.0,38.0
+269,Negara Islam Indonesia (NII),Indonesia,1,IDN,IDO,Indonesia,78.0,14.0,46.0,48.0,62.0,38.0
+270,Hasam Movement,Egypt,4,EGY,EGY,Egypt,,,,,7.0,4.0
+271,Islamic State in Egypt,Egypt,1,EGY,EGY,Egypt,,,,,7.0,4.0
+272,Muslim Brotherhood,Egypt,2,EGY,EGY,Egypt,,,,,7.0,4.0
+273,Muslim extremists,Egypt,2,EGY,EGY,Egypt,,,,,7.0,4.0
+274,Omar Abdel Rahman Brigade,Egypt,1,EGY,EGY,Egypt,,,,,7.0,4.0
+275,Sinai Province of the Islamic State,Egypt,90,EGY,EGY,Egypt,,,,,7.0,4.0
+276,Jamaat Nusrat al-Islam wal Muslimin (JNIM),Ivory Coast,4,CIV,AFW,Africa West,77.0,20.0,46.0,54.0,9.0,78.0
+277,Jihadi-inspired extremists,Australia,2,AUS,AUL,Australia,38.0,90.0,61.0,51.0,21.0,71.0
+278,Jihadi-inspired extremists,Azerbaijan,1,AZE,AZE,Azerbaijan,,,,,61.0,22.0
+279,Jihadi-inspired extremists,Jordan,1,JOR,JOR,Jordan,,,,,16.0,43.0
+280,Muslim extremists,Jordan,1,JOR,JOR,Jordan,,,,,16.0,43.0
+281,Jihadi-inspired extremists,Morocco,1,MAR,MOR,Morocco,70.0,46.0,53.0,68.0,14.0,25.0
+282,Jihadi-inspired extremists,Netherlands,1,NLD,NET,Netherlands,38.0,80.0,14.0,53.0,67.0,68.0
+283,Muslim extremists,Netherlands,1,NLD,NET,Netherlands,38.0,80.0,14.0,53.0,67.0,68.0
+284,Jihadi-inspired extremists,Switzerland,1,CHE,SWI,Switzerland,34.0,68.0,70.0,58.0,74.0,66.0
+285,Muslim extremists,Norway,2,NOR,NOR,Norway,31.0,69.0,8.0,50.0,35.0,55.0
+286,White supremacists/nationalists,Norway,2,NOR,NOR,Norway,31.0,69.0,8.0,50.0,35.0,55.0
+287,Pro-Palestinian extremists,Brazil,1,BRA,BRA,Brazil,69.0,38.0,49.0,76.0,44.0,59.0
+288,Qimant extremists,Ethiopia,1,ETH,ETH,Ethiopia,,,,,,46.0
