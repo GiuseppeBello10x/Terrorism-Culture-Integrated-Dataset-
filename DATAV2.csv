@@ -1,0 +1,79 @@
+Unnamed: 0,gname,country_txt,num_attacks,iso_alpha,Country,Country Name,Uncertainty Avoidance Societal Practices,Future Orientation Societal Practices,Power Distance Societal Practices,Collectivism I Societal Practices (Institutional Collectivism),Humane Orientation Societal Practices,Performance Orientation Societal Practices,Collectivism II Societal Practices (In-group Collectivism),Gender Egalitarianism Societal Practices,Assertiveness Societal Practices ,Country Cluster
+0,Abu Sayyaf Group (ASG),Malaysia,7,MYS,89,Malaysia,4.78,4.58,5.17,4.61,4.87,4.34,5.51,3.51,3.87,Southern Asia
+1,Abu Sayyaf Group (ASG),Philippines,45,PHL,70,Philippines,3.89,4.15,5.44,4.65,5.12,4.47,6.36,3.64,4.01,Southern Asia
+10,Al-Khobar,Philippines,2,PHL,70,Philippines,3.89,4.15,5.44,4.65,5.12,4.47,6.36,3.64,4.01,Southern Asia
+23,Ansar Al-Khilafa (Philippines),Philippines,1,PHL,70,Philippines,3.89,4.15,5.44,4.65,5.12,4.47,6.36,3.64,4.01,Southern Asia
+56,Bangsamoro Islamic Freedom Movement (BIFM),Philippines,94,PHL,70,Philippines,3.89,4.15,5.44,4.65,5.12,4.47,6.36,3.64,4.01,Southern Asia
+70,East Asia Division of the Islamic State,Philippines,7,PHL,70,Philippines,3.89,4.15,5.44,4.65,5.12,4.47,6.36,3.64,4.01,Southern Asia
+95,Islamic State of Iraq and the Levant (ISIL),Philippines,6,PHL,70,Philippines,3.89,4.15,5.44,4.65,5.12,4.47,6.36,3.64,4.01,Southern Asia
+144,Maute Group,Philippines,3,PHL,70,Philippines,3.89,4.15,5.44,4.65,5.12,4.47,6.36,3.64,4.01,Southern Asia
+145,Moro Islamic Liberation Front (MILF),Philippines,3,PHL,70,Philippines,3.89,4.15,5.44,4.65,5.12,4.47,6.36,3.64,4.01,Southern Asia
+173,Muslim extremists,Philippines,1,PHL,70,Philippines,3.89,4.15,5.44,4.65,5.12,4.47,6.36,3.64,4.01,Southern Asia
+7,Al-Aqsa Martyrs Brigade,Israel,3,ISR,17,Israel,4.01,3.85,4.73,4.46,4.1,4.08,4.7,3.19,4.23,Latin Europe
+74,Hamas (Islamic Resistance Movement),Israel,96,ISR,17,Israel,4.01,3.85,4.73,4.46,4.1,4.08,4.7,3.19,4.23,Latin Europe
+112,Jewish Extremists,Israel,1,ISR,17,Israel,4.01,3.85,4.73,4.46,4.1,4.08,4.7,3.19,4.23,Latin Europe
+187,Palestinian Islamic Jihad (PIJ),Israel,35,ISR,17,Israel,4.01,3.85,4.73,4.46,4.1,4.08,4.7,3.19,4.23,Latin Europe
+214,Wa'ed al-Tahrir,Israel,1,ISR,17,Israel,4.01,3.85,4.73,4.46,4.1,4.08,4.7,3.19,4.23,Latin Europe
+9,Al-Badr,India,6,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+19,Al-Umar Mujahideen,India,3,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+24,Ansar Ghazwat-ul-Hind,India,3,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+80,Hind Province of the Islamic State,India,7,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+81,Hindu extremists,India,3,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+83,Hizbul Mujahideen (HM),India,74,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+103,Jaish-e-Mohammad (JeM),India,75,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+105,Jama'atul Mujahideen Bangladesh (JMB),India,3,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+132,Khalistan Liberation Force,India,2,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+134,Khorasan Chapter of the Islamic State,India,8,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+139,Lashkar-e-Mustafa (LeM),India,1,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+140,Lashkar-e-Taiba (LeT),India,54,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+189,Popular Front of India (PFI),India,1,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+193,Rashtriya Swayamsevak Sangh,India,4,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+195,Sanatan Sanstha,India,2,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+196,Sarallah India Hezbollah,India,1,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+207,Tehrik al-Mojahedin,India,3,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+211,The Resistance Front (TRF),India,22,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+213,Vishwa Hindu Parishad (VHP),India,1,IND,6,India,4.15,4.19,5.47,4.38,4.57,4.25,5.92,2.9,3.73,Southern Asia
+12,Al-Qaida in the Arabian Peninsula (AQAP),United States,1,USA,99,USA,4.15,4.15,4.88,4.2,4.17,4.49,4.25,3.34,4.55,Anglo
+32,Anti-Christian extremists,United States,1,USA,99,USA,4.15,4.15,4.88,4.2,4.17,4.49,4.25,3.34,4.55,Anglo
+42,Anti-Muslim extremists,United States,10,USA,99,USA,4.15,4.15,4.88,4.2,4.17,4.49,4.25,3.34,4.55,Anglo
+51,Anti-Semitic extremists,United States,15,USA,99,USA,4.15,4.15,4.88,4.2,4.17,4.49,4.25,3.34,4.55,Anglo
+129,Jihadi-inspired extremists,United States,10,USA,99,USA,4.15,4.15,4.88,4.2,4.17,4.49,4.25,3.34,4.55,Anglo
+136,Ku Klux Klan,United States,1,USA,99,USA,4.15,4.15,4.88,4.2,4.17,4.49,4.25,3.34,4.55,Anglo
+216,White supremacists/nationalists,United States,26,USA,99,USA,4.15,4.15,4.88,4.2,4.17,4.49,4.25,3.34,4.55,Anglo
+25,Ansar al-Furqan,Iran,1,IRN,14,IRAN,3.67,3.7,5.43,3.88,4.23,4.58,6.03,2.99,4.04,Middle East
+102,Jaish al-Adl,Iran,4,IRN,14,IRAN,3.67,3.7,5.43,3.88,4.23,4.58,6.03,2.99,4.04,Middle East
+160,Muslim extremists,Iran,1,IRN,14,IRAN,3.67,3.7,5.43,3.88,4.23,4.58,6.03,2.99,4.04,Middle East
+30,Ansaru (Jama'atu Ansarul Muslimina Fi Biladis Sudan),Nigeria,6,NGA,85,Nigeria,4.29,4.09,5.8,4.14,4.1,3.92,5.55,3.01,4.79,Sub-Sahara Africa 
+62,Boko Haram,Nigeria,569,NGA,85,Nigeria,4.29,4.09,5.8,4.14,4.1,3.92,5.55,3.01,4.79,Sub-Sahara Africa 
+170,Muslim extremists,Nigeria,1,NGA,85,Nigeria,4.29,4.09,5.8,4.14,4.1,3.92,5.55,3.01,4.79,Sub-Sahara Africa 
+37,Anti-Muslim extremists,New Zealand,2,NZL,87,New Zealand,4.75,3.47,4.89,4.81,4.32,4.72,3.67,3.22,3.42,Anglo
+39,Anti-Muslim extremists,Spain,1,ESP,42,Spain,3.97,3.51,5.52,3.85,3.32,4.01,5.45,3.01,4.42,Latin Europe
+40,Anti-Muslim extremists,Sweden,1,SWE,62,Sweden,5.32,4.39,4.85,5.22,4.1,3.72,3.66,3.84,3.38,Nordic Europe
+48,Anti-Semitic extremists,Sweden,2,SWE,62,Sweden,5.32,4.39,4.85,5.22,4.1,3.72,3.66,3.84,3.38,Nordic Europe
+176,Muslim extremists,Sweden,1,SWE,62,Sweden,5.32,4.39,4.85,5.22,4.1,3.72,3.66,3.84,3.38,Nordic Europe
+43,Anti-Semitic extremists,Austria,1,AUT,51,Austria,5.16,4.46,4.95,4.3,3.72,4.44,4.85,3.09,4.62,Germanic Europe
+114,Jihadi-inspired extremists,Austria,1,AUT,51,Austria,5.16,4.46,4.95,4.3,3.72,4.44,4.85,3.09,4.62,Germanic Europe
+151,Muslim extremists,Austria,2,AUT,51,Austria,5.16,4.46,4.95,4.3,3.72,4.44,4.85,3.09,4.62,Germanic Europe
+44,Anti-Semitic extremists,France,1,FRA,57,France,4.43,3.48,5.28,3.93,3.4,4.11,4.37,3.64,4.13,Latin Europe
+118,Jihadi-inspired extremists,France,14,FRA,57,France,4.43,3.48,5.28,3.93,3.4,4.11,4.37,3.64,4.13,Latin Europe
+157,Muslim extremists,France,1,FRA,57,France,4.43,3.48,5.28,3.93,3.4,4.11,4.37,3.64,4.13,Latin Europe
+46,Anti-Semitic extremists,Italy,1,ITA,5,Italy,3.79,3.25,5.43,3.68,3.63,3.58,4.94,3.24,4.07,Latin Europe
+69,East Asia Division of the Islamic State,Indonesia,1,IDN,21,Indonesia,4.17,3.86,5.18,4.54,4.69,4.41,5.68,3.26,3.86,Southern Asia
+106,Jamaah Ansharut Daulah,Indonesia,11,IDN,21,Indonesia,4.17,3.86,5.18,4.54,4.69,4.41,5.68,3.26,3.86,Southern Asia
+120,Jihadi-inspired extremists,Indonesia,3,IDN,21,Indonesia,4.17,3.86,5.18,4.54,4.69,4.41,5.68,3.26,3.86,Southern Asia
+147,Mujahidin Indonesia Timur (MIT),Indonesia,8,IDN,21,Indonesia,4.17,3.86,5.18,4.54,4.69,4.41,5.68,3.26,3.86,Southern Asia
+159,Muslim extremists,Indonesia,1,IDN,21,Indonesia,4.17,3.86,5.18,4.54,4.69,4.41,5.68,3.26,3.86,Southern Asia
+183,Negara Islam Indonesia (NII),Indonesia,1,IDN,21,Indonesia,4.17,3.86,5.18,4.54,4.69,4.41,5.68,3.26,3.86,Southern Asia
+77,Hasam Movement,Egypt,4,EGY,41,Egypt,4.06,3.86,4.92,4.5,4.72,4.27,5.64,2.81,3.91,Middle East
+88,Islamic State in Egypt,Egypt,1,EGY,41,Egypt,4.06,3.86,4.92,4.5,4.72,4.27,5.64,2.81,3.91,Middle East
+149,Muslim Brotherhood,Egypt,2,EGY,41,Egypt,4.06,3.86,4.92,4.5,4.72,4.27,5.64,2.81,3.91,Middle East
+156,Muslim extremists,Egypt,2,EGY,41,Egypt,4.06,3.86,4.92,4.5,4.72,4.27,5.64,2.81,3.91,Middle East
+185,Omar Abdel Rahman Brigade,Egypt,1,EGY,41,Egypt,4.06,3.86,4.92,4.5,4.72,4.27,5.64,2.81,3.91,Middle East
+201,Sinai Province of the Islamic State,Egypt,90,EGY,41,Egypt,4.06,3.86,4.92,4.5,4.72,4.27,5.64,2.81,3.91,Middle East
+93,Islamic State of Iraq and the Levant (ISIL),Kazakhstan,1,KAZ,22,Kazakhstan,3.66,3.57,5.31,4.29,3.99,3.57,5.26,3.84,4.46,Eastern Europe
+113,Jihadi-inspired extremists,Australia,2,AUS,60,Australia,4.39,4.09,4.74,4.29,4.28,4.36,4.17,3.4,4.28,Anglo
+122,Jihadi-inspired extremists,Morocco,1,MAR,27,Morocco,3.65,3.26,5.8,3.87,4.19,3.99,5.87,2.84,4.52,Middle East
+123,Jihadi-inspired extremists,Netherlands,1,NLD,56,Netherlands,4.7,4.61,4.11,4.46,3.86,4.32,3.7,3.5,4.32,Germanic Europe
+168,Muslim extremists,Netherlands,1,NLD,56,Netherlands,4.7,4.61,4.11,4.46,3.86,4.32,3.7,3.5,4.32,Germanic Europe
+126,Jihadi-inspired extremists,Switzerland,1,CHE,55,Switzerland,5.37,4.73,4.9,4.06,3.6,4.94,3.97,2.97,4.51,Germanic Europe
+190,Pro-Palestinian extremists,Brazil,1,BRA,68,Brazil,3.6,3.81,5.33,3.83,3.66,4.04,5.18,3.31,4.2,Latin America
